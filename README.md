@@ -1,4 +1,4 @@
-# boor-or-not-to-boo
+# Too boo or not to boo -- that is the question
 
 Small project to explore some ML algorithms for classification.
 
