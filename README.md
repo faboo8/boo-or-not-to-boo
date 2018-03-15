@@ -14,3 +14,5 @@ Task at hand: from certain (made-up) features (bone_length, rotting_flesh, hair_
  
  I use tensorflow to build a simple neural network with 1 hidden layer.
  So far still very basic (hwo to find best values for neurons, epochs, batch_size...?)
+ 
+ Gives an accuracy around 60%, so pretty bad.
